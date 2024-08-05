@@ -2,7 +2,7 @@
 
 ## Overview
 
-This machine learning project is designed to predict nasopharyngeal cancer based on relevant features extracted from breast cancer data. The model is trained on a dataset with various characteristics and labels indicating progression-free or overall survival.
+This machine learning project is designed to predict nasopharyngeal cancer based on relevant features extracted from nasopharyngeal cancer data. The model is trained on a dataset with various characteristics and labels indicating progression-free or overall survival.
 
 ## Project Structure
 
